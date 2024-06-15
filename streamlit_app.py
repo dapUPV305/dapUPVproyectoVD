@@ -62,7 +62,7 @@ def winners_plot():
             """
             Error: %s
             """
-            % e.reason
+            % e
         )
 
 if __name__ == "__main__":
