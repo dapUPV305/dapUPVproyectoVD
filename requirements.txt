@@ -1,0 +1,7 @@
+streamlit
+st-pages
+altair
+streamlit_js_eval
+folium
+streamlit-folium
+pandas
