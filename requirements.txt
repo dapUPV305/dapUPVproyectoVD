@@ -1,7 +1,9 @@
-streamlit
-st-pages
+./streamlit-1.9.0-py2.py3-none-any.whlst-pages
 altair
 streamlit_js_eval
 folium
 streamlit-folium
 pandas
+numpy
+pydeck
+openpyxl
