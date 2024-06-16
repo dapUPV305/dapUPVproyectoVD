@@ -1,6 +1,7 @@
 streamlit
 altair
 streamlit_js_eval
+geopandas
 folium
 streamlit-folium
 pandas
