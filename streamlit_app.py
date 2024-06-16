@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import streamlit as st
 import pandas as pd
 import altair as alt
@@ -12,6 +13,7 @@ def run():
         [
             Page("streamlit_app.py", "Home", "⚽"),
             Page("pages/plots.py", "Datos por temporadas", "📊"),
+            Page("pages/maps.py", "Estadios", "🇪🇸"),
         ]
     )
 
